@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bcb636e1.css",
+    "main.js": "/static/js/main.d324515a.js",
+    "static/media/illustration-section-01.svg": "/static/media/illustration-section-01.980998916c8e9369ffab.svg",
+    "static/media/illustration-section-02.svg": "/static/media/illustration-section-02.f11c21a9745d2454b81c.svg",
+    "static/media/cta-illustration.svg": "/static/media/cta-illustration.79633e4594ec76a3f01f.svg",
+    "index.html": "/index.html",
+    "static/media/feature-tile-icon-06.svg": "/static/media/feature-tile-icon-06.74b0477e38710535bd0e2526d669b6f8.svg",
+    "static/media/feature-tile-icon-05.svg": "/static/media/feature-tile-icon-05.af2bae113bcfafa4eceac9401c7f3a5a.svg",
+    "static/media/feature-tile-icon-04.svg": "/static/media/feature-tile-icon-04.1acd4dacd4ddf306c2e7f5da116b6137.svg",
+    "static/media/feature-tile-icon-03.svg": "/static/media/feature-tile-icon-03.69e94e20efba0832770920ab1d93d073.svg",
+    "static/media/feature-tile-icon-01.svg": "/static/media/feature-tile-icon-01.e13cef8e30c0472fc8b303cc0801113f.svg",
+    "static/media/feature-tile-icon-02.svg": "/static/media/feature-tile-icon-02.469356592c7ce3b1abf53cca85e82fee.svg",
+    "main.bcb636e1.css.map": "/static/css/main.bcb636e1.css.map",
+    "main.d324515a.js.map": "/static/js/main.d324515a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcb636e1.css",
+    "static/js/main.d324515a.js"
+  ]
+}
